@@ -12,7 +12,7 @@ public void sub(int num1,int num2) {
 }
 
 
-public void print() {
+public void printed() {
 	System.out.print("New printing");
 }
 

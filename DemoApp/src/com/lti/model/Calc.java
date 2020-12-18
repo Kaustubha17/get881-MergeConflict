@@ -34,5 +34,10 @@ public void printed() {
 	System.out.print("New printing");
 }
 
+public void show() {
+	System.out.print("New show");
+}
+	
+	
 }
 

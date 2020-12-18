@@ -12,5 +12,9 @@ public void sub(int num1,int num2) {
 }
 
 
+public void print() {
+	System.out.print("New printing");
+}
+
 }
 

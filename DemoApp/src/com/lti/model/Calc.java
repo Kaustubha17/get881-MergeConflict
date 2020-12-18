@@ -18,11 +18,6 @@ public void add(int num1,int num2) {
 		System.out.print(n);
 	}
 	
-	
-	public void prints(){
-	System.out.print("");
-	}
-	
 
 
 public void sub(int num1,int num2) {
@@ -33,6 +28,12 @@ public void sub(int num1,int num2) {
 public void printed() {
 	System.out.print("New printing");
 }
+
+public void test() {
+	System.out.print("test printing");
+}
+
+
 
 public void show() {
 	System.out.print("New show");

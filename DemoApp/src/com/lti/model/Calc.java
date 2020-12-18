@@ -16,5 +16,10 @@ public void printed() {
 	System.out.print("New printing");
 }
 
+public void test() {
+	System.out.print("test printing");
+}
+
+
 }
 

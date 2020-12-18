@@ -5,6 +5,19 @@ public void add(int num1,int num2) {
 	System.out.print("Sum="+(num1+num2));
 
 }	
+	public void multi(int num1,int num2) {
+	System.out.print("Multiplication="+(num1*num2));
+}	
+	
+	public void fact(int num){
+	int n=1;
+		while(num>1){
+		n=n*num;
+			num--;
+		}
+		System.out.print(n);
+	}
+	
 
 
 public void sub(int num1,int num2) {
@@ -21,5 +34,11 @@ public void test() {
 }
 
 
+
+public void show() {
+	System.out.print("New show");
+}
+	
+	
 }
 
